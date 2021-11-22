@@ -1,0 +1,13 @@
+*{
+
+}
+div{
+    width: 100px;
+    height: 500px;
+    margin: 100px auto;
+    background-color: blue;
+    color: brown;
+    transform: rotate(-45deg);
+
+}
+
